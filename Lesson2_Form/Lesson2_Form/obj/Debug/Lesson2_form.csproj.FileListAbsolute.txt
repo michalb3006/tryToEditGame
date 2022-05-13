@@ -1,0 +1,30 @@
+D:\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.exe.config
+D:\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.exe
+D:\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.pdb
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csprojAssemblyReference.cache
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.Form1.resources
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.Properties.Resources.resources
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csproj.GenerateResource.cache
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csproj.CoreCompileInputs.cache
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.exe
+D:\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.pdb
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.exe.config
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.exe
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\bin\Debug\Lesson2_form.pdb
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csprojAssemblyReference.cache
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.Form1.resources
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.Properties.Resources.resources
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csproj.GenerateResource.cache
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.exe
+L:\שנה ב\מהט\אנחנו\Sari Zak\C#\Lesson2_form\Lesson2_form\obj\Debug\Lesson2_form.pdb
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\bin\Debug\Lesson2_form.exe.config
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\bin\Debug\Lesson2_form.exe
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\bin\Debug\Lesson2_form.pdb
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.csprojAssemblyReference.cache
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.Form1.resources
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.Properties.Resources.resources
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.csproj.GenerateResource.cache
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.exe
+L:\שנה ב\מהט\C#\מירי כהן\Lesson2_Form\Lesson2_form\obj\Debug\Lesson2_form.pdb
